@@ -1,0 +1,12 @@
+{
+    "name":     "Template",
+    "version":  "0.4.0",
+    "main":     "./lib/Template",
+    "modules":  {
+    },
+    "dependencies": {
+    },
+    "engines":  {
+        "node":     ">=0.1.0"
+    }
+}
